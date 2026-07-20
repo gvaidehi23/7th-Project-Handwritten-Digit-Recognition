@@ -3,3 +3,4 @@ pandas
 numpy
 tensorflow
 opencv-python-headless
+streamlit-drawable-canvas
